@@ -35,7 +35,7 @@ export default function Home() {
   }
 
   return (
-    <main>
+    <main className="mt-40">
       <h1 className="text-6xl font-extrabold text-center text-gradient bg-clip-text bg-gradient-to-r from-purple-500 to-pink-500 tracking-tight leading-tight">
         Distance Calculator
       </h1>
