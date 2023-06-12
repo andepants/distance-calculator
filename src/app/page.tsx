@@ -39,7 +39,7 @@ export default function Home() {
       <h1 className="text-6xl font-extrabold text-center text-gradient bg-clip-text bg-gradient-to-r from-purple-500 to-pink-500 tracking-tight leading-tight">
         Distance Calculator
       </h1>
-      <p className="text-center text-2xl font-semibold mt-4">
+      <p className="text-center m-2 p-2 text-2xl font-semibold mt-4">
         Calculates distance between two points using longitude and latitude coordinates
       </p>
       <div className="flex justify-center">
